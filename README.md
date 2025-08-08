@@ -17,4 +17,4 @@ Line Chart
 
 Drill-through 
 
-<img width="1152" height="641" alt="image" src="https://github.com/user-attachments/assets/6a306a48-b962-4db0-86d3-e7bfc89dad4e" />
+<img width="1273" height="716" alt="image" src="https://github.com/user-attachments/assets/53f44d6b-4a2e-4aaa-80e3-af53f5a41093" />
