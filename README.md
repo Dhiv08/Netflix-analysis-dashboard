@@ -1,7 +1,7 @@
-# Power BI Netflix-analysis-dashboard
+## Power BI Netflix-analysis-dashboard
 
 
-Overview
+# Overview
 
 Interactive Power BI dashboard for analyzing movie data with KPIs, slicers, charts, and drill-through.
 
